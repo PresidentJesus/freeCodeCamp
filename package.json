@@ -14,5 +14,5 @@
 	"keywords": [ "first project", "freecodecamp", "fcc", "node.js" ],
 	"author": "Logan",
 	"description": "Managing packages with NPM",
-	"licesne": "MIT"
+	"license": "MIT"
 }
