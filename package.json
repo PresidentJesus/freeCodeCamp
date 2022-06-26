@@ -11,6 +11,10 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+	"dependencies": {
+		"package-name": "moment",
+		"express": "2.14.0"
+	},
 	"keywords": [ "first project", "freecodecamp", "fcc", "node.js" ],
 	"author": "Logan",
 	"description": "Managing packages with NPM",
