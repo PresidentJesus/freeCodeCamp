@@ -11,7 +11,12 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "first project", "freecodecamp", "fcc", "node.js" ],
+	"keywords": [
+		"first project",
+		"freecodecamp",
+		"fcc",
+		"node.js"
+	],
 	"author": "Logan",
 	"description": "Managing packages with NPM",
 	"license": "MIT",
